@@ -1,0 +1,8 @@
+name: PerkSystem
+version: 1.0-SNAPSHOT
+main: de.thearray.perksystem.PerkSystem
+api-version: 1.21
+
+commands:
+
+  perks:
